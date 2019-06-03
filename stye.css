@@ -1,0 +1,15 @@
+.hat {
+	height: 50px;
+}
+.main {
+	height: 300px;
+}
+body {
+	background-image: url(banner.jpg);
+}
+.reds {
+	height: 50px;
+}
+.down {
+	height: 500px;
+}
